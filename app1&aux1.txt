@@ -1,0 +1,7 @@
+testConfigs/testFile1
+testConfigs/testFile2
+testConfigs/testFile3
+testConfigs/testFile4
+testConfigs/testFile5
+testConfigs/testFile6
+testConfigs/testFile7
